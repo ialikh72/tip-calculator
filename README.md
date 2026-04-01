@@ -2,6 +2,7 @@
 
 A simple C# console program that calculates a tip based on the bill amount using predefined percentage ranges.
 
+
 ## 📌 Tip Rules
 
 
