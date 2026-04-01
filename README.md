@@ -4,6 +4,7 @@ A simple C# console program that calculates a tip based on the bill amount using
 
 ## 📌 Tip Rules
 
+
 - Bill ≤ $10  → 10% tip  
 - $10 < Bill ≤ $20 → 12% tip  
 - $20 < Bill ≤ $30 → 14% tip  
